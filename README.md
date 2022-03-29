@@ -1,18 +1,17 @@
-# Hi there 👋 Welcome to my GitHub
+# 👋 Welcome to my GitHub
 
 - 🔭 My main project is [Homejell](https://homejell.com), a Wordpress Project.
-- 🌱 I’m currently learning Javascript, ReactJS, and NodeJS.
-- 👯 I’m looking to collaborate with people who build things.
+- 🌱 I’m currently learning ReactJS and NodeJS.
 - 📫 How to reach me: jvcarrolljr@gmail.com
 
 ## 🛠 Tools
 
 *Everyday work*
 - HTML/CSS
+- Javascript
 - PHP
 
 *To Full-stack*
-- Javascript
 - ReactJS
 - NodeJS
 
