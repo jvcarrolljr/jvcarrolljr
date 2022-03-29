@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub
 
-- 🔭 My main project is [Homejell](https://homejell.com), a Wordpress Project.
+- 🔭 My main project is Jell, a Product Comparison Database built with Wordpress and ACF.
 - 🌱 I’m currently learning ReactJS and NodeJS.
 - 📫 How to reach me: jvcarrolljr@gmail.com
 
