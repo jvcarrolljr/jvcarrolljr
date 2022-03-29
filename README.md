@@ -12,7 +12,7 @@
 - PHP
 
 *Growth*
-- ReactJS
+- React
 - NodeJS
 
 *For Automating Work*
