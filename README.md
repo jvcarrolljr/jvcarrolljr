@@ -7,14 +7,14 @@
 
 ## 🛠 Tools
 
-*Everyday work
+*Everyday work*
 - HTML/CSS
 - PHP
 
-*To Full-stack
+*To Full-stack*
 - Javascript
 - ReactJS
 - NodeJS
 
-*Work Automation
+*Work Automation*
 - Python
