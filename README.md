@@ -1,19 +1,19 @@
 # 👋 Welcome to my GitHub
 
-- 🔭 My main project is Jell, a dynamic product comparison database built in Wordpress with ACF.
-- 🌱 I’m currently learning ReactJS and NodeJS.
+- 🔭 Main job/project is Jell: a dynamic product comparison database built in Wordpress with ACF.
+- 🌱 I’m currently learning ReactJS and NodeJS, and have a list of projects that'll use them.
 - 📫 How to reach me: jvcarrolljr@gmail.com
 
 ## 🛠 Tools
 
-*Everyday work*
+*Everyday Work*
 - HTML/CSS
 - Javascript
 - PHP
 
-*To Full-stack*
+*Growth*
 - ReactJS
 - NodeJS
 
-*Work Automation*
+*For Automating Work*
 - Python
