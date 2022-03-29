@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋 Welcome to my GitHub
 
-<!--
-**jvcarrolljr/jvcarrolljr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 My main project is [Homejell](https://homejell.com), a Wordpress Project.
+- 🌱 I’m currently learning Javascript, ReactJS, and NodeJS.
+- 👯 I’m looking to collaborate with people who build things.
+- 📫 How to reach me: jvcarrolljr@gmail.com
 
-Here are some ideas to get you started:
+## 🛠 Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Everyday work
+- HTML/CSS
+- PHP
+
+*To Full-stack
+- Javascript
+- ReactJS
+- NodeJS
+
+*Work Automation
+- Python
