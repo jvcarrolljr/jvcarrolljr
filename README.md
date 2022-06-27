@@ -1,4 +1,4 @@
-# 👋 Welcome to my Learning Portal
+# 👋 Hi
 
 *Learning 📕*
 - React
