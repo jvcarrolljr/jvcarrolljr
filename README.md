@@ -1,11 +1,11 @@
 # 👋 Welcome to my Learning Portal
 
-* Learning 📕 *
+*Learning 📕*
 - React
 - Node
 - ReactNative
 
-* Current 🛠 *
+*Current 🛠*
 - HTML/CSS
 - Javascript
 - PHP
